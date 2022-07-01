@@ -1,1 +1,2 @@
-# my_projects_bigJhow88
+# Coffee Menu Project
+*Projeto criado no 123 freeCodeCamp.
